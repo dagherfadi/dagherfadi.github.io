@@ -15,7 +15,6 @@ title: R/qtlcharts example
 A databricks project analysing the US Census Data from years 2000 and 2010, identifying trends in population change in regards to state and county migrations, gender, and age brackets.<br/>
 [![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 
-[![R/USCensus example](../../assets/bigpublpics/USCensusDataAnalysis.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
-[![R/USCensus example](../../assets/bigpublpics/USCensusAgeBrackets.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+[![R/USCensus example](../../assets/bigpublpics/USCensusDataAnalysis.png)](https://dagherfadi.github.io/assets/bigpublpics/USCensusDataAnalysis.png)
 
-The left panel is a US map showing the population increase (darker colors indicate higher increase); the right panel shows the age population increase by age bracket.
+The graph is of the US map showing the population increase (darker colors indicate higher increase)
