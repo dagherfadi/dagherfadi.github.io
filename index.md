@@ -15,7 +15,7 @@ keywords: Databricks, Azure
   </div>
 </div>
 
-### <a name="Portfolio"></a>Portfolio
+### <a name="My Projects (under construction)"></a>Portfolio
 
 <table class="wide">
 <tr>
@@ -41,7 +41,7 @@ keywords: Databricks, Azure
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
+          
       </ul>
   </div>
 </div>
