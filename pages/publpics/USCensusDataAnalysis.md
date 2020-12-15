@@ -13,7 +13,7 @@ title: R/qtlcharts example
 </div>
 
 A databricks project analysing the US Census Data from years 2000 and 2010, identifying trends in population change in regards to state and county migrations, gender, and age brackets.<br/>
-[![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
+Project Paper: [![pdf](../icons16/pdf-icon.png)](https://dagherfadi.github.io/assets/USCensurFinalPaper.pdf)
 
 [![R/USCensus example](../../assets/bigpublpics/USCensusDataAnalysis.png)](https://dagherfadi.github.io/assets/bigpublpics/USCensusDataAnalysis.png)
 
